@@ -1,4 +1,5 @@
-PDTW algorithm by Okko Rasanen & M.A. Cruz Blandon for ZS2020 submission, track2.
+Probabilistic DTW (PDTW) algorithm by Okko Rasanen & M.A. Cruz Blandon for Zero Speech
+Challenge 2020 submission for track2. See http://zerospeech.com for info on the challenge.
 
 Use track2_main.m to run ZS2020 track2 experiments with ZS2017 datasets.
 
