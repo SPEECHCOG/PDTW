@@ -3,8 +3,8 @@ function patterns = PDTW(F,config)
 %
 % Probabilistic PDTW pattern matching from paper O. Rasanen & M.A. Cruz
 % Blandon: "Unsupervised discovery of recurring speech patterns using 
-% probabilistic adaptive metrics", paper submitted to be submitted to
-% Interspeech-2020. 
+% probabilistic adaptive metrics", In Proc.
+% Interspeech-2020, Shanghai, China. 
 %
 % Please cite the above paper if you use this code or its derivatives.
 %
