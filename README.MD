@@ -8,7 +8,10 @@ Use PDTW.m to run PDTW algorithm only (features as input, pattern timestamps as 
 #### Citation:  
 
 If you use this code or its derivatives, please cite:  
-Räsänen, O. & Cruz Blandon, M. A. (2020). Unsupervised Discovery of Recurring Speech Patterns using Probabilistic Adaptive Metrics. Proc. Interspeech-2020, Shanghai, China, pp. 4871–4875. Download: https://arxiv.org/abs/2008.00731 
+Räsänen, O. & Cruz Blandon, M. A. (2020). Unsupervised Discovery of Recurring Speech Patterns using Probabilistic Adaptive Metrics. Proc. Interspeech-2020, Shanghai, China, pp. 4871–4875. 
+ 
+ 
+Download link: https://arxiv.org/abs/2008.00731 
 
 #### Acknowledgements:
 The present package includes re-distribution of Voicebox toolbox by Mike Brooks
